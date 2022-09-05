@@ -1,9 +1,6 @@
 # OpenDevBoard-stm32h750
 
-
-
-
-
+open source development board for STM32h750vbt6
 
 
 ## Features
